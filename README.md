@@ -11,7 +11,7 @@
 ### The advantage of refactoring code allows you to have a faster output and, in my mind, an easier code to read. Nested loops can make your code a bit confusing at times and if someone were to send you over their work with nested loops it can lead to you taking more time to understand the other person’s work.
 
 ## Disadvantages
-# The disadvantage of refactoring code is that it takes time and effort to find a better way to refactor the code.
+### The disadvantage of refactoring code is that it takes time and effort to find a better way to refactor the code.
 
 ## Conlusion of refactoring code
 ### These pros and cons apply to refactoring the original VBA script by understanding how much time and effort you want to put in. Refactoring code can potentially be beneficial and quicker output time but it will take more time to refactor the code in VBA to come up with a better solution.
