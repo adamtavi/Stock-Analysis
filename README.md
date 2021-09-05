@@ -7,6 +7,8 @@
 
 ### Initially when we ran the script, we used a nested formula in our code, and it ran fast. However, when we refactored the code and removed the nested loop, we are achieving the same outcome but at a faster rate. You can see that with the images below.
 
+![This is an Image](https://github.com/adamtavi/Stock-Analysis/blob/Resources/VBA_Challenge_2017.PNG)
+
 ## Advantages refactoring code
 ### The advantage of refactoring code allows you to have a faster output and, in my mind, an easier code to read. Nested loops can make your code a bit confusing at times and if someone were to send you over their work with nested loops it can lead to you taking more time to understand the other person’s work.
 
