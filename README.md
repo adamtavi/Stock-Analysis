@@ -9,11 +9,10 @@ The rate of return was the highest in year 2017 at 199.4%. 2018 seemed like a do
 The highest rate of return year over year went to stock “ENPH”. “ENPH” had great return in both years with a substantial volume increase year over.
 DQ was one of the better performers year over year but “ENPH” performance was the best and should be the stock to pick if we are grading these stocks from the two-year timespan.
 
-
 Initially when we ran the script, we used a nested formula in our code, and it ran fast. However, when we refactored the code and removed the nested loop, we are achieving the same outcome but at a faster rate. You can see that with the images below.
 
 
-1.	What are the advantages or disadvantages of refactoring code?
+1. What are the advantages or disadvantages of refactoring code?
 The advantage of refactoring code allows you to have a faster output and, in my mind, an easier code to read.
 Nested loops can make your code a bit confusing at times and if someone were to send you over their work with nested loops it can lead to you taking more time to understand the other person’s work.
 
